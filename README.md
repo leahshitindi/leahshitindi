@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leahshitindi
-- 👀 I’m interested in programming, data science, data analysis
-- 🌱 I’m currently learning Statistical data analysis
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data science and data analysis
+- 🌱 I’m currently learning Python SAS and R
+- 💞️ I’m looking to collaborate on Data science project
 - 📫 How to reach me Leah.Shitindi@UGent.be
 
 <!---
